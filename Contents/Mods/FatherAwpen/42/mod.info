@@ -5,3 +5,6 @@ author=Awpenheimer
 poster=preview.png
 poster=nosleep.png
 icon=preview.png
+
+pack=FatherAwpenDecor
+tiledef=FatherAwpenDecor 7142
