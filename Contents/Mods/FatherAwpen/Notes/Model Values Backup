@@ -1,0 +1,13 @@
+scale = 0.15,
+
+attachment world
+{
+    offset = 0.0 0.212 -0.0099,
+    rotate = 0.0 -90.0 0.0,
+}
+
+attachment Bip01_Prop2
+{
+    offset = -0.0131 -0.0221 0.0007,
+    rotate = 0.0 -86.9102 0.0,
+}
