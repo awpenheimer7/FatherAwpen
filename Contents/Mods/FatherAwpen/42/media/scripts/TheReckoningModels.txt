@@ -5,6 +5,7 @@ module Base
         mesh = FatherAwpen/TheReckoning,
         texture = FatherAwpen/TheReckoning,
         scale = 0.15,
+        cullFace = None,
 
         attachment world
         {
@@ -13,8 +14,13 @@ module Base
         }
         attachment Bip01_Prop2
         {
-            offset = -0.0131 -0.0221 0.0007,
+            offset = -0.0131 -0.0221 0.0157,
             rotate = 0.0 -86.9102 0.0,
+        }
+        attachment Bip01_Prop1
+        {
+            offset = 0.0 0.0 0.0157,
+            rotate = 0.0 0.0 0.0,
         }
   }
 }
